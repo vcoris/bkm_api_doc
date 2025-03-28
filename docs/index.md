@@ -29,3 +29,12 @@ bremember
 * 4.1 Get lines by categories
 * 4.2 Get filter by options
 * 4.3 Get filtered lines
+
+## 5. Odds
+* 5.1 Get open odds
+* 5.2 Get graded type options
+* 5.3 Get graded odds
+
+## 6. Action slip
+* 6.1 Get action type list
+* 
