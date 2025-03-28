@@ -37,4 +37,4 @@ bremember
 
 ## 6. Action slip
 * 6.1 Get action type list
-* 
+* 6.1 Submit action
