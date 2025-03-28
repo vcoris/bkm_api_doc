@@ -20,9 +20,12 @@ bremember
 * 2.2 Get available localization options
 
 ## 3. Sports
-* 3.1 Get top sports list
-* 3.2 Get sport leagues
-* 3.3 Get betting categories by leagues
+* 3.1 Get full sports list
+* 3.2 Get top sports list
+* 3.3 Get sport leagues
+* 3.4 Get betting categories by leagues
 
 ## 4. Lines
-
+* 4.1 Get lines by categories
+* 4.2 Get filter by options
+* 4.3 Get filtered lines
