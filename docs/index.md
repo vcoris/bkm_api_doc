@@ -1,8 +1,7 @@
 # BKM API overview
 
-## Account
-* Login
-  * Remember me
+## 1. Account
+* 1.1 Login
 
 ```js hl_lines="1-2"
 username
@@ -10,5 +9,5 @@ password
 bremember
 ```
 
-* Logout
+* 1.2 Logout
 
